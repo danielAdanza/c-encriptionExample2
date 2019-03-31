@@ -1,0 +1,14 @@
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\bin\Debug\UnitTests.dll
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\bin\Debug\UnitTests.pdb
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\obj\Debug\UnitTests.dll
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\obj\Debug\UnitTests.pdb
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\bin\Debug\EncryptionAlgorithms.dll
+D:\Git\ClassicalEncryptionTechniques_Code\UnitTests\bin\Debug\EncryptionAlgorithms.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\bin\Debug\EncryptionAlgorithms.dll
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\bin\Debug\EncryptionAlgorithms.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\UnitTests\obj\Debug\UnitTests.pdb

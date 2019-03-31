@@ -1,0 +1,10 @@
+D:\Git\ClassicalEncryptionTechniques_Code\EncryptionAlgorithms\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\ClassicalEncryptionTechniques_Code\EncryptionAlgorithms\bin\Debug\EncryptionAlgorithms.dll
+D:\Git\ClassicalEncryptionTechniques_Code\EncryptionAlgorithms\bin\Debug\EncryptionAlgorithms.pdb
+D:\Git\ClassicalEncryptionTechniques_Code\EncryptionAlgorithms\obj\Debug\EncryptionAlgorithms.dll
+D:\Git\ClassicalEncryptionTechniques_Code\EncryptionAlgorithms\obj\Debug\EncryptionAlgorithms.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\EncryptionAlgorithms\bin\Debug\EncryptionAlgorithms.dll
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\EncryptionAlgorithms\bin\Debug\EncryptionAlgorithms.pdb
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\EncryptionAlgorithms\obj\Debug\EncryptionAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\EncryptionAlgorithms\obj\Debug\EncryptionAlgorithms.dll
+C:\Users\Lenovo\Desktop\apuntes\Master año 2\PodatkovnaZascita\task 1\codeProject\EncryptionAlgorithms\obj\Debug\EncryptionAlgorithms.pdb
